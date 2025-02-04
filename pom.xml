@@ -33,9 +33,10 @@
           </execution>
         </executions>
         <configuration>
-          <mainClass>edu.eci.cvds.patterns.shapes.ShapeMain</mainClass>
+          <mainClass>edu.eci.cvds.patterns.archetype.App</mainClass>
         </configuration>
       </plugin>
     </plugins>
   </build>
 </project>
+
