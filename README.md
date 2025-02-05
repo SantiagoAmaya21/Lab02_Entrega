@@ -30,3 +30,21 @@ Se puso el nombre y apellido, pero como solo se esta imprimiendo la primera posi
 ### ¿Cuál fábrica hiciste? y ¿Cuál es mejor?
 
 Creamos la fabrica Simple Factory porque solo había una interfaz, podíamos hacer un switch ya que no habían tantos objetos y por tanto no era necesario crear una fábrica abstracta.
+
+
+Ejecute múltiples veces la clase ShapeMain, usando el plugin exec de maven con los siguientes parámetros y verifique la salida en consola para cada una:
+
+Sin parámetros:
+![image8](Images/Screenshot 2025-02-05 141022.png)
+
+Parámetro: qwerty
+![image9](Images/Screenshot 2025-02-05 141509.png)
+
+Parámetro: pentagon
+![image10](Images/Screenshot 2025-02-05 141725.png)
+
+Parámetro: Hexagon
+![image11](Images/Screenshot 2025-02-05 141906.png)
+
+¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
+Se ejecutan todas, pero la única válida es la última ya que por la enumeración solo se permite el parámetro Hexagon
