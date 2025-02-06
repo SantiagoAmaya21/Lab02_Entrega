@@ -1,1 +1,9 @@
-C:\Users\santiago.amaya-z\Downloads\Patterns\src\main\java\edu\eci\cvds\patterns\archetype\App.java
+/workspaces/Lab02_Entrega/src/main/java/edu/eci/cvds/patterns/archetype/App.java
+/workspaces/Lab02_Entrega/src/main/java/edu/eci/cvds/patterns/shapes/RegularShapeType.java
+/workspaces/Lab02_Entrega/src/main/java/edu/eci/cvds/patterns/shapes/Shape.java
+/workspaces/Lab02_Entrega/src/main/java/edu/eci/cvds/patterns/shapes/ShapeFactory.java
+/workspaces/Lab02_Entrega/src/main/java/edu/eci/cvds/patterns/shapes/ShapeMain.java
+/workspaces/Lab02_Entrega/src/main/java/edu/eci/cvds/patterns/shapes/concrete/Hexagon.java
+/workspaces/Lab02_Entrega/src/main/java/edu/eci/cvds/patterns/shapes/concrete/Pentagon.java
+/workspaces/Lab02_Entrega/src/main/java/edu/eci/cvds/patterns/shapes/concrete/Quadrilateral.java
+/workspaces/Lab02_Entrega/src/main/java/edu/eci/cvds/patterns/shapes/concrete/Triangle.java
